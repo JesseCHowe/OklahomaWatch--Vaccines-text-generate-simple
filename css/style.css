@@ -1,0 +1,32 @@
+p {
+  font-family: Georgia,"Times New Roman",Times,serif;
+    font-size: 19.55px;
+    margin: 0 0 24px;
+  line-height: 1.5;
+  color: #484848;
+  
+}
+
+.toolTip {
+
+font-size: 1em;
+}
+.city--hover {
+  stroke: #000;
+}
+
+.hiveChart_container{
+  margin: 0 auto;
+    display: block;
+  max-width: 600px;
+}
+
+#mySelect{
+  margin: 0 auto;
+  display: block;
+    margin-bottom: 1.5em;
+}
+
+h1{
+  text-align: center;
+}
